@@ -1,0 +1,5 @@
+{
+  "name": "數學題庫系統",
+  "description": "一個專業的數學題庫管理與出卷系統，支援樹狀知識點選擇、自動配題，並能導出高品質的 .docx 檔案。",
+  "requestFramePermissions": []
+}
